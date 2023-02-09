@@ -28,11 +28,13 @@ TOOL DEVELOPED: Geodesic Polyhedra Generator
 ![new_base setup_a3_plate5 1- grey alternate11](https://user-images.githubusercontent.com/6398561/211141966-e59c7d17-bc3e-4fda-b6be-7d5bc7ef9fad.jpg)
 ![new_base setup_a3_plate5 6](https://user-images.githubusercontent.com/6398561/211141978-cf6aaec3-58c1-488b-aa93-a882c5657f61.jpg)
 
----
+## FURTHER INVESTIGATIONS
 
 Stellated Polyhedra
 
-![grow assembly for Polyspiky D](https://user-images.githubusercontent.com/6398561/217708953-3dcb9766-b511-4d49-a0ad-1385ff09f0ba.jpg)
+![grow assembly for Polyspiky D](https://user-images.githubusercontent.com/6398561/217709205-b6532c17-d827-4c5f-83b0-4d217c507881.jpg)
 
+![Kopie von DSC_1213_905](https://user-images.githubusercontent.com/6398561/217709363-bda9a8f9-2a08-43ad-adab-20b53f5f1d87.JPG)
 
+![P06_905](https://user-images.githubusercontent.com/6398561/217709615-1c04a09f-ef94-4452-81ac-8b44a4b54735.png)
 
